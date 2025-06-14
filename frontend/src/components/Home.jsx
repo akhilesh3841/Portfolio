@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll'; // Import Link from react-scroll
-import profile from '../assets/profile.jpg';
+import profile from "../assets/profile.png"
 import { AppText } from './../Constants';
 import { ReactTyped } from 'react-typed';
 
@@ -34,7 +34,7 @@ const Home = () => {
 
       </div>
       <div className='md:w-1/2 mt-6 md:mt-0'>
-        <img src={profile} alt='Home' className='w-full md:max-w-md rounded-lg shadow-lg object-cover' style={{ maxHeight: '530px' }} />
+        <img src={profile} alt='Home' className='w-full md:max-w-md shadow-lg object-cover' style={{ maxHeight: '530px' }} />
       </div>
     </div>
   );

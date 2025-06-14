@@ -1,6 +1,7 @@
-import pass from './assets/pass.png'
+import job from './assets/job.jpeg'
 import yt from './assets/yt.png'
-import todo from './assets/todo.png'
+import connectors from "./assets/connector.png"
+
 
 
 import codechef from './assets/codechef.png'
@@ -14,9 +15,9 @@ export const data=[
 
     {
         id: 1,
-        title: "Password generator",
-        imageUrl:pass,
-        projectUrl: "https://password-genrator-j6fq.onrender.com",
+        title: "Job Portal",
+        imageUrl:job,
+        projectUrl: "http://43.204.115.221/",
       },
       {
         id: 2,
@@ -26,11 +27,10 @@ export const data=[
       },
       {
         id: 3,
-        title: "Todo app",
-        imageUrl: todo,
-        projectUrl: "https://todo-app-4uqj.onrender.com",
-      }
-    
+        title: "Developers Connectors",
+        imageUrl:connectors,
+        projectUrl: "http://13.234.110.96/",
+      },
 
 ]
 
