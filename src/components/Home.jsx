@@ -24,7 +24,7 @@ const Home = () => {
           />
         </h1>
         <a
-          href="https://pdflink.to/d6d21ba0/" // Replace with the actual URL of your resume
+          href="https://drive.google.com/file/d/1ZBRei96yi9c6eZl4-GIk3LCYDoJuErjq/view?usp=drive_link" // Replace with the actual URL of your resume
           target="_blank" // Opens the resume in a new tab
           rel="noopener noreferrer" // Security measure for external links
           className='bg-purple-600 mt-4 px-4 py-2 text-white rounded-lg transition-all ease-out hover:scale-105 inline-block'
