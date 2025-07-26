@@ -17,7 +17,7 @@ export const data=[
         id: 1,
         title: "Job Portal",
         imageUrl:job,
-        projectUrl: "http://43.204.115.221/",
+        projectUrl: "https://jobportalclient-nine.vercel.app/",
       },
       {
         id: 2,
@@ -29,7 +29,7 @@ export const data=[
         id: 3,
         title: "Developers Connectors",
         imageUrl:connectors,
-        projectUrl: "http://13.234.110.96/",
+        projectUrl: "https://devconnectorfrontend.vercel.app/",
       },
 
 ]
